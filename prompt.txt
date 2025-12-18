@@ -1,0 +1,8 @@
+Scan this repository and summarize:
+
+1. Overall architecture and folder structure
+2. Main services, routes, and responsibilities
+3. Existing unit and integration tests
+4. Gaps in test coverage and risky areas
+
+Be concise and structured.
